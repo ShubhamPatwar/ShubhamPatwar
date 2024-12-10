@@ -1,5 +1,5 @@
-hi this is shubham patwar , i want to learn giuthub , so created this account.
+HI , this is shubham patwar , IIT Mandi Communication and Signal Processing 2024 Passout . 
 
-Adding some more lines to it  , as part of learning.
+All the assignments and projects which i do , i post it here.
 
 
